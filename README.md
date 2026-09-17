@@ -1,4 +1,4 @@
-# Hi, my name is Michelle
+# Hello! My name is Michelle
 
 I want to build a cool looking project.
 
